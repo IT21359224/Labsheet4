@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Labsheet4_mad</string>
+    <string name="btn1">SUBMIT</string>
+    <string name="btn2">CANCEL</string>
 </resources>
